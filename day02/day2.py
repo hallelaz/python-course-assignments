@@ -1,3 +1,6 @@
+"""
+Calculates the area of circle
+"""
 class Circle:
     def __init__(self, R):
         if R <= 0:
