@@ -6,7 +6,7 @@ I first asked ChatGPT-5 to create a PCR cycle calculator, where the user inputs 
 
 In the second part, I provided ChatGPT-5 with the equations describing bacterial growth during the exponential phase.
 The equations were:
-![bacterial growth during the exponential phase](day02/Picture1.png)
+![bacterial growth during the exponential phase](Picture1.png)
  
 I then asked ChatGPT-5 to build a command-line (CLI) tool where the user can enter the following parameters:
 •	the initial number of cells (N0(
