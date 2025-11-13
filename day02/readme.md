@@ -28,3 +28,6 @@ Stationary phase:  If the population is close to the carrying capacity:  |Nt −
 Death phase: If the population has started to decline beyond the stationary level:  Nt < K and decreasing over time
 
 Based on these equations, ChatGPT-5 built a calculator that automatically determines the current growth phase according to the entered values and suggested adding a graph that visualizes the entire growth curve with the identified phase highlighted.
+
+# Installation Note
+The GUI tool in this project (bacterial_growth_gui.py) requires the matplotlib library
