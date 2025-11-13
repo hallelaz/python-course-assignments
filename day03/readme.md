@@ -1,0 +1,1 @@
+I used ChatGPT-5 to help restructure the original script into a cleaner project. I asked ChatGPT-5 to separate the business logic into its own module, replace the arithmetic operations with NumPy, and write a simple CLI that imports and uses that logic. I also asked ChatGPT-5 to create unit tests using pytest
