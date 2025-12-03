@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.DS_Store
+ENV/
+.venv/
+scores.txt
